@@ -3,7 +3,7 @@
 # LEARNING 
 
 ## IBM Machine Learning Professional Certificate
-[ ] [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
+- [ ] [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
 # SCUDEM
 
