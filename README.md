@@ -14,7 +14,7 @@
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)
 - [ ] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression?specialization=machine-learning)
 - [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification?specialization=machine-learning)
-- [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval?specialization=machine-learning
+- [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval?specialization=machine-learning)
 - [ ] [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)
 
 # SCUDEM
